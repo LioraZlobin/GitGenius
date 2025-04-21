@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liora\\source\\repos\\GitGenius\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66259DC-761E-43C2-920C-DC681ED5CA4C}|TestProject\\GitGeniusTests.csproj|c:\\users\\liora\\source\\repos\\gitgenius\\testproject\\registerviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66259DC-761E-43C2-920C-DC681ED5CA4C}|TestProject\\GitGeniusTests.csproj|solutionrelative:testproject\\registerviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66259DC-761E-43C2-920C-DC681ED5CA4C}|TestProject\\GitGeniusTests.csproj|c:\\users\\liora\\source\\repos\\gitgenius\\testproject\\gitgeniustests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E66259DC-761E-43C2-920C-DC681ED5CA4C}|TestProject\\GitGeniusTests.csproj|solutionrelative:testproject\\gitgeniustests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFE251B-B869-42EC-8B61-160EB67037A0}|GitGenius\\GitGenius.csproj|c:\\users\\liora\\source\\repos\\gitgenius\\gitgenius\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFE251B-B869-42EC-8B61-160EB67037A0}|GitGenius\\GitGenius.csproj|solutionrelative:gitgenius\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\liora\\source\\repos\\GitGenius\\TestProject\\RegisterViewModelTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\RegisterViewModelTests.cs",
+              "ToolTip": "C:\\Users\\liora\\source\\repos\\GitGenius\\TestProject\\RegisterViewModelTests.cs",
+              "RelativeToolTip": "TestProject\\RegisterViewModelTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:11:02.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GitGeniusTests.csproj",
+              "DocumentMoniker": "C:\\Users\\liora\\source\\repos\\GitGenius\\TestProject\\GitGeniusTests.csproj",
+              "RelativeDocumentMoniker": "TestProject\\GitGeniusTests.csproj",
+              "ToolTip": "C:\\Users\\liora\\source\\repos\\GitGenius\\TestProject\\GitGeniusTests.csproj",
+              "RelativeToolTip": "TestProject\\GitGeniusTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T09:09:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GitGenius\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GitGenius\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:48:52.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
