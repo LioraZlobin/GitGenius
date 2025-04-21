@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGeniusRestored", "GitGeniusRestored.csproj", "{B588DE78-9F4F-BC2F-2C95-ADAA7836108D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGenius", "GitGenius.csproj", "{D8580100-0B27-7BBB-5F95-7AD2F082DC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGeniusTests", "TestProject\GitGeniusTests.csproj", "{79FD0D27-04A7-DB04-93ED-FDA11AF98684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B588DE78-9F4F-BC2F-2C95-ADAA7836108D}.Debug|x86.ActiveCfg = Debug|x86
+		{B588DE78-9F4F-BC2F-2C95-ADAA7836108D}.Debug|x86.Build.0 = Debug|x86
+		{B588DE78-9F4F-BC2F-2C95-ADAA7836108D}.Release|x86.ActiveCfg = Release|x86
+		{B588DE78-9F4F-BC2F-2C95-ADAA7836108D}.Release|x86.Build.0 = Release|x86
+		{D8580100-0B27-7BBB-5F95-7AD2F082DC90}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D8580100-0B27-7BBB-5F95-7AD2F082DC90}.Debug|x86.Build.0 = Debug|Any CPU
+		{D8580100-0B27-7BBB-5F95-7AD2F082DC90}.Release|x86.ActiveCfg = Release|Any CPU
+		{D8580100-0B27-7BBB-5F95-7AD2F082DC90}.Release|x86.Build.0 = Release|Any CPU
+		{79FD0D27-04A7-DB04-93ED-FDA11AF98684}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{79FD0D27-04A7-DB04-93ED-FDA11AF98684}.Debug|x86.Build.0 = Debug|Any CPU
+		{79FD0D27-04A7-DB04-93ED-FDA11AF98684}.Release|x86.ActiveCfg = Release|Any CPU
+		{79FD0D27-04A7-DB04-93ED-FDA11AF98684}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04A742C-CBFA-4E6E-B7FB-7E942C5A134B}
+	EndGlobalSection
+EndGlobal

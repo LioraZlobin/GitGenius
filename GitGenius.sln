@@ -5,11 +5,12 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGenius", "GitGenius\GitGenius.csproj", "{5CFE251B-B869-42EC-8B61-160EB67037A0}"
 EndProject
-<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGeniusTests", "TestProject\GitGeniusTests.csproj", "{E66259DC-761E-43C2-920C-DC681ED5CA4C}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitGeniusTests", "GitGeniusTests\GitGeniusTests.csproj", "{9A475501-0A9B-4098-B496-FEA30386C4ED}"
->>>>>>> 7fae8823fe3dc3a82d642d459bb1c8d2f3fa9f9a
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		Jenkinsfile.txt = Jenkinsfile.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,17 +22,10 @@ Global
 		{5CFE251B-B869-42EC-8B61-160EB67037A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CFE251B-B869-42EC-8B61-160EB67037A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CFE251B-B869-42EC-8B61-160EB67037A0}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{E66259DC-761E-43C2-920C-DC681ED5CA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E66259DC-761E-43C2-920C-DC681ED5CA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E66259DC-761E-43C2-920C-DC681ED5CA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E66259DC-761E-43C2-920C-DC681ED5CA4C}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{9A475501-0A9B-4098-B496-FEA30386C4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9A475501-0A9B-4098-B496-FEA30386C4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9A475501-0A9B-4098-B496-FEA30386C4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9A475501-0A9B-4098-B496-FEA30386C4ED}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 7fae8823fe3dc3a82d642d459bb1c8d2f3fa9f9a
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

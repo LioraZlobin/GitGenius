@@ -171,3 +171,15 @@ C:\Users\liora\source\repos\GitGenius\GitGenius\obj\Debug\net8.0\GitGenius.pdb
 C:\Users\liora\source\repos\GitGenius\GitGenius\obj\Debug\net8.0\GitGenius.genruntimeconfig.cache
 C:\Users\liora\source\repos\GitGenius\GitGenius\obj\Debug\net8.0\ref\GitGenius.dll
 C:\Users\liora\source\repos\GitGenius\GitGenius\obj\Debug\net8.0\GitGenius.sourcelink.json
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.csproj.AssemblyReference.cache
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.AssemblyInfoInputs.cache
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.AssemblyInfo.cs
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.csproj.CoreCompileInputs.cache
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.RazorAssemblyInfo.cache
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.RazorAssemblyInfo.cs
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.sourcelink.json
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.dll
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\refint\GitGenius.dll
+C:\Users\liora\source\repos\GitGenius\obj\Debug\net8.0\GitGenius.pdb

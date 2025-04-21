@@ -163,3 +163,5 @@ C:\Users\liora\source\repos\GitGenius\TestProject\obj\Debug\net8.0\refint\GitGen
 C:\Users\liora\source\repos\GitGenius\TestProject\obj\Debug\net8.0\GitGeniusTests.pdb
 C:\Users\liora\source\repos\GitGenius\TestProject\obj\Debug\net8.0\GitGeniusTests.genruntimeconfig.cache
 C:\Users\liora\source\repos\GitGenius\TestProject\obj\Debug\net8.0\ref\GitGeniusTests.dll
+C:\Users\liora\source\repos\GitGenius\TestProject\obj\Debug\net8.0\GitGeniusTests.sourcelink.json
+C:\Users\liora\source\repos\GitGenius\TestProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll

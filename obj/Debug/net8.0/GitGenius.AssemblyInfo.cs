@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitGenius")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d28982282efe669fca40384ea5677c9e0c081c24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+933fb302daf41b306bfc8e4377a2f523869b41e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitGenius")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitGenius")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

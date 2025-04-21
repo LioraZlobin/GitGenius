@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius\\GitGenius.csproj": {}
+    "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius\\GitGenius.csproj": {
+    "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius\\GitGenius.csproj",
+        "projectUniqueName": "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius.csproj",
         "projectName": "GitGenius",
-        "projectPath": "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius\\GitGenius.csproj",
+        "projectPath": "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius.csproj",
         "packagesPath": "C:\\Users\\liora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liora\\source\\repos\\GitGenius\\GitGenius\\obj\\",
+        "outputPath": "C:\\Users\\liora\\source\\repos\\GitGenius\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
