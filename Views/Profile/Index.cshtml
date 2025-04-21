@@ -1,0 +1,24 @@
+﻿@model GitGenius.Models.User
+
+@{
+    ViewData["Title"] = "My Profile";
+}
+
+<h2>הפרופיל שלי</h2>
+
+<div class="card p-3">
+    <dl class="row">
+        <dt class="col-sm-3">Full name</dt>
+        <dd class="col-sm-9">@Model.FullName</dd>
+
+        <dt class="col-sm-3">Email</dt>
+        <dd class="col-sm-9">@Model.Email</dd>
+
+        <dt class="col-sm-3">ID</dt>
+        <dd class="col-sm-9">@Model.IdNumber</dd>
+
+        <dt class="col-sm-3">Role</dt>
+        <dd class="col-sm-9">@Model.Role</dd>
+    </dl>
+
+</div>
